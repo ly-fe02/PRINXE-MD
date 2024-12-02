@@ -40,9 +40,9 @@ global.confirmCode = ""
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923092668108'] 
-global.prems = ['923092668108']
-global.allowed = ['923092668108']
+global.mods = ['2541050088363'] 
+global.prems = ['254105008363']
+global.allowed = ['254105008363']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -53,7 +53,7 @@ global.lolkeysapi = "GataDiosV2"
 global.itsrose = ['4b146102c4d500809da9d1ff']
 global.baileys = '@whiskeysockets/baileys'
 global.apis = 'https://deliriussapi-oficial.vercel.app'
-global.openai_key = 'sk-...OzYy' /* Get your ApiKey at this link: https://platform.openai.com/account/api-keys */
+global.openai_key = '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' /* Get your ApiKey at this link: https://platform.openai.com/account/api-keys */
 global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW'
 //💌------------------------------------------💌
 
